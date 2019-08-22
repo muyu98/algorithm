@@ -1,6 +1,6 @@
 /**
  * https://leetcode-cn.com/problems/two-sum/
- * @param {number[]} nums
+ * @param {number[]} nums，
  * @param {number} target
  * @return {number[]}
  * 给定 nums = [2, 7, 11, 15], target = 9
